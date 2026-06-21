@@ -1,0 +1,18 @@
+# Build outputs
+bin/
+obj/
+*.user
+*.suo
+
+# VS / Rider
+.vs/
+.idea/
+*.DotSettings
+
+# dotnet
+*.nupkg
+project.lock.json
+
+# OS
+.DS_Store
+Thumbs.db
