@@ -76,5 +76,3 @@ dotnet run
 - Interface: Console / Terminal
 
 ---
-
-*Built as a portfolio project for George Brown College — Computer Programming.*
